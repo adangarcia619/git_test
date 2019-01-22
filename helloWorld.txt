@@ -1,0 +1,4 @@
+Hi,
+
+This is me updating my helloWorld.txt file via Terminal using Linux.
+Used "nano" command, similar to the Mac. Cool stuff. 
